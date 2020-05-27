@@ -1,0 +1,9 @@
+name: CoreBooster
+version: 1.0
+api-version: 1.13
+
+main: me.enchanted.corebooster.CoreBooster
+commands:
+  booster:
+  redeembooster:
+  combinebooster:

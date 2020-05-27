@@ -1,0 +1,9 @@
+xp-base: 250
+xp-factor: 1.005
+levels-per-tier: 15
+
+combine-gui:
+  input1: 10
+  input2: 11
+  input3: 12
+  output: 15
